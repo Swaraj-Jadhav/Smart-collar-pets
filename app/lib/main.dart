@@ -14,7 +14,7 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
     options: FirebaseOptions(
-      apiKey: "AIzaSyCBL8VMa_q6GdulfggMr_qJ7zHLVrM6XZo",
+      apiKey: "xyz",
       appId: "1:400440232703:android:6c2b2958f199413c17daca",
       messagingSenderId: "400440232703",
       projectId: "pet-track-288ac",
